@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\bin\Debug\net8.0\soru13.exe
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\bin\Debug\net8.0\soru13.deps.json
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\bin\Debug\net8.0\soru13.runtimeconfig.json
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\bin\Debug\net8.0\soru13.dll
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\bin\Debug\net8.0\soru13.pdb
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\obj\Debug\net8.0\soru13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\obj\Debug\net8.0\soru13.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\obj\Debug\net8.0\soru13.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\obj\Debug\net8.0\soru13.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\obj\Debug\net8.0\soru13.dll
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\obj\Debug\net8.0\refint\soru13.dll
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\obj\Debug\net8.0\soru13.pdb
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\obj\Debug\net8.0\soru13.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Hafta-2-Kapanis\soru13\obj\Debug\net8.0\ref\soru13.dll

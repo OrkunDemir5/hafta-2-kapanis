@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\bin\Debug\net8.0\soru8.exe
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\bin\Debug\net8.0\soru8.deps.json
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\bin\Debug\net8.0\soru8.runtimeconfig.json
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\bin\Debug\net8.0\soru8.dll
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\bin\Debug\net8.0\soru8.pdb
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\obj\Debug\net8.0\soru8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\obj\Debug\net8.0\soru8.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\obj\Debug\net8.0\soru8.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\obj\Debug\net8.0\soru8.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\obj\Debug\net8.0\soru8.dll
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\obj\Debug\net8.0\refint\soru8.dll
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\obj\Debug\net8.0\soru8.pdb
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\obj\Debug\net8.0\soru8.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\hafta-2-kapanis\soru8\obj\Debug\net8.0\ref\soru8.dll
